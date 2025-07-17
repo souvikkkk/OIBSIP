@@ -1,0 +1,6 @@
+Date: 2025-07-11 20:30
+Weight: 74.0 kg
+Height: 170.0 cm
+BMI: 25.61
+Category: Overweight
+-----------------------------
